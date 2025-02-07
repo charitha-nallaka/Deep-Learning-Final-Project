@@ -1,8 +1,8 @@
 # Project Title: Image Classification for Medical Diagnosis
 
 ## Group Members:
-- Sam Stokes (Data Preprocessing, Model Development)
 - Charitha Nallaka (Dataset Collection, Evaluation)
+- Geethika Sannala
 
 ## Project Overview:
 This project involves using three distinct datasets to solve machine learning problems. We will use a medical imaging dataset for tumor classification, a sentiment analysis dataset for text classification, and a speech dataset for speech emotion recognition. The goal is to build a robust model that can classify each of these types accurately.
